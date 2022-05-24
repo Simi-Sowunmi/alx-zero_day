@@ -1,1 +1,1 @@
-Another git project
+Another git project as a ALX Student
